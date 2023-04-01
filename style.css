@@ -1,0 +1,29 @@
+body {
+    font-family: monospace, monospace;
+    font-size: 0.9em;
+    background: black;
+    color: white;
+}
+
+h1, p, dl, dt {
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    max-width: 73ch;
+    word-break: break-word;
+}
+
+dt, p {
+    margin-left: 7ch;
+}
+
+p {
+    margin-bottom: 1em;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
